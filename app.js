@@ -1,5 +1,4 @@
 import express from 'express'
-export * from './db.js'
 
 express()
   .use(express.json())
